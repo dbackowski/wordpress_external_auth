@@ -1,4 +1,4 @@
-# Wordpress external auth plugin
+# Wordpress external authentication plugin
 
 Install this into your wordpress plugins/directory.
 

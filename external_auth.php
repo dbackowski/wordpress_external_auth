@@ -4,7 +4,7 @@ Plugin Name: External Authentication
 Description:  Wordpress external authentication.
 Version: 1.0
 Author: Damian Baćkowski
-Author URI: https://github.com/dbackowski/wordpress_external_authentication
+Author URI: https://github.com/dbackowski/wordpress_external_auth
 License: MIT
 */
 
