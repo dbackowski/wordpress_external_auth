@@ -7,7 +7,7 @@
     <table class="form-table">
       <tr valign="top">
         <th scope="row">URL</th>
-        <td><input type="text" name="authentication_url" value="<?php echo get_option('authentication_url'); ?>" /></td>
+        <td><input type="text" name="authentication_url" value="<?php echo get_option('authentication_url'); ?>" class="regular-text" /></td>
       </tr>
       <tr valign="top">
         <th scope="row">Login param name</th>
